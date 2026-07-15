@@ -1,0 +1,9 @@
+backend 
+
+python run_backend.py  
+
+frontend 
+
+npm install  
+
+npm run dev
